@@ -17,6 +17,7 @@
         <module>facade</module>
         <module>decorator</module>
         <module>flyweight</module>
+        <module>proxy</module>
     </modules>
 
 </project>
