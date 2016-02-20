@@ -19,6 +19,7 @@
         <module>flyweight</module>
         <module>proxy</module>
         <module>responsibilityclain</module>
+        <module>command</module>
     </modules>
 
 </project>
