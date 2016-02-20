@@ -12,6 +12,8 @@
         <module>simplefactory</module>
         <module>factorymethod</module>
         <module>abstractfactory</module>
+        <module>bridge</module>
+        <module>combination</module>
     </modules>
 
 </project>
