@@ -20,6 +20,7 @@
         <module>proxy</module>
         <module>responsibilityclain</module>
         <module>command</module>
+        <module>observer</module>
     </modules>
 
 </project>
