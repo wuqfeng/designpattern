@@ -21,6 +21,8 @@
         <module>responsibilityclain</module>
         <module>command</module>
         <module>observer</module>
+        <module>statemachine</module>
+        <module>switchstate</module>
     </modules>
 
 </project>
